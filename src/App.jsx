@@ -5,6 +5,7 @@ import Carousel from './components/Carousel'
 import Vision from './components/Vision'
 import Experience from './components/Experience'
 import Skills from './components/Skills'
+import AwardsGallery from './components/AwardsGallery'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 import { useScrollReveal } from './hooks/useScrollReveal'
@@ -21,6 +22,7 @@ export default function App() {
       <Vision />
       <Experience />
       <Skills />
+      <AwardsGallery />
       <Contact />
       <Footer />
     </>

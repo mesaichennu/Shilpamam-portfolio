@@ -1,22 +1,30 @@
 const experiences = [
   {
-    period: 'October 2021 — Present',
-    role: 'Principal',
-    org: 'EuroKids International Pre-School & Day Care, Lohegaon / Wagholi Road, Pune — Hyderabad, Telangana',
-    desc: 'Leading daily operations, pedagogy, and team management at EuroKids International Pre-School & Day Care. Championing a child-centered culture that prioritises joyful learning, parental engagement, and holistic early childhood development.',
+   
+    role: 'EuroKids, Turkayamjal',
+    org: 'Nurturing Curiosity in the Early Years',
+    desc: 'Supported the development and strengthening of early childhood learning practices at EuroKids, Turkayamjal, focusing on creating engaging and nurturing learning environments. Contributed to implementing child-centered teaching approaches, structured activity-based learning, and teacher guidance that encourages curiosity, creativity, and joyful exploration during the foundational years of education.',
   },
   {
-    period: 'Up to October 2024',
-    role: 'Center Head',
-    org: 'EuroKids Pre-School & Day Care Bopodi — Hyderabad, Telangana',
-    desc: 'Managed centre operations and academic programmes, building a cohesive team dedicated to high-quality early childhood education and community trust.',
+    role: 'My Alphabets',
+    org: 'Building Strong Foundations for Lifelong Learning',
+    desc: 'Worked closely with the institution to help shape a learning environment that emphasizes early literacy, creativity, and confidence among young learners. Guidance included structuring engaging learning activities, supporting educators with effective teaching strategies, and ensuring that foundational skills are developed in a joyful and supportive atmosphere.',
   },
   {
-    period: 'July 2021 — October 2024',
-    role: 'School Principal',
-    org: 'Lighthouse Learning Group — Hyderabad, Telangana',
-    desc: 'Served as School Principal at Lighthouse Learning Group for over three years, overseeing curriculum, staff development, and institutional growth across early childhood programmes.',
+    
+    role: 'Little Hive',
+    org: 'A Space Where Young Minds Blossom',
+    desc: 'Contributed to the development of a warm and stimulating early learning space where children are encouraged to explore, imagine, and grow. Provided insights on creating interactive learning environments, supporting educators, and nurturing the social, emotional, and cognitive development of young learners.',
   },
+  {
+    role: 'Aranya – The School',
+    org: 'Holistic Learning Inspired by Nature and Curiosity',
+    desc: 'Supported the institution in strengthening its approach to holistic education by encouraging learning experiences that connect academics with creativity, exploration, and real-world understanding. Guidance focused on creating balanced learning environments that nurture curiosity, critical thinking, and character development.',},
+  {
+    role: 'Abhayas',
+    org: 'Empowering Students Through Meaningful Education',
+    desc: 'Worked with the school to help enhance learning structures and educational practices that support student growth and confidence. Focus areas included developing engaging teaching methods, strengthening academic frameworks, and encouraging a learning culture that values both knowledge and character development.',
+  }
 ]
 
 export default function Experience() {
@@ -24,7 +32,7 @@ export default function Experience() {
     <section id="experience">
       <div className="sec-hdr reveal">
         <span className="sec-num">03</span>
-        <h2>Experience</h2>
+        <h2>Our Journey</h2>
         <div className="sec-rule" />
       </div>
 

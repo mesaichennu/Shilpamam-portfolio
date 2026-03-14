@@ -1,13 +1,13 @@
 const skillGroups = [
   {
-    title: 'Leadership & Administration',
+    title: 'Areas of Expertise',
     tags: [
-      { label: 'Educational Leadership', gold: true },
-      { label: 'School Administration', gold: true },
-      { label: 'Team Recruitment' },
-      { label: 'Policy Design' },
+      { label: 'Design & Setup', gold: true },
+      { label: 'Teacher Development', gold: true },
+      { label: 'Personality Transformation' },
+      { label: 'Leadership Coaching' },
+      { label: 'Change Management' },
       { label: 'Strategic Planning' },
-      { label: 'Institution Building' },
     ],
   },
   {
@@ -24,8 +24,9 @@ const skillGroups = [
     title: 'Communication & Engagement',
     tags: [
       { label: 'Public Speaking', gold: true },
-      { label: 'Debating', gold: true },
-      { label: 'Mentoring' },
+      // { label: 'Debating', gold: true },
+      { label: 'Mentoring', gold: true },
+      { label: 'Corporate Training' },
       { label: 'English Language Teaching' },
       { label: 'Cross-cultural Communication' },
     ],
@@ -33,10 +34,12 @@ const skillGroups = [
   {
     title: 'Academic Credentials',
     tags: [
-      { label: 'MBA', gold: true },
-      { label: 'Corporate Management', gold: true },
-      { label: 'Business Administration' },
-      { label: '4+ Years Leadership' },
+      { label: 'MA Pyschology',gold: true },
+      { label: 'Doctorate',gold: true },
+      { label: 'PDGCA in Rural Development' },
+      { label: 'HR' },
+      { label: 'B.Tech  Computer Science' },
+  
     ],
   },
 ]

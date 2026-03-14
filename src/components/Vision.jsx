@@ -1,13 +1,13 @@
 const pillars = [
   {
     icon: '🌱',
-    title: 'Student-Centered Learning',
-    desc: 'Designing policies and curricula that honor every learner\'s individuality, nurturing potential at each stage of development.',
+    title: 'Personalized Learning Strategies',
+    desc: 'Guiding educators and institutions to adopt approaches that respect individual learning styles and unlock each learner’s full potential.',
   },
   {
     icon: '🌍',
-    title: 'Global & Inclusive Outlook',
-    desc: 'Drawing from experience with learners across India, South Korea, and Japan to foster cross-cultural understanding from a young age.',
+    title: 'Global Learning Perspective',
+    desc: 'Bringing international insights and diverse educational experiences to create inclusive and culturally aware learning environments.',
   },
   {
     icon: '🎤',
@@ -26,8 +26,7 @@ export default function Vision() {
       </div>
 
       <blockquote className="vquote reveal">
-        Every child is unique and deserves an environment where they can truly thrive — a space
-        that is joyful, purposeful, and empowering.
+      To create learning environments where curiosity is celebrated, creativity is encouraged, and every mind is empowered to grow with confidence and purpose.
       </blockquote>
 
       <div className="pillars">
